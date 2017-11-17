@@ -1,0 +1,10 @@
+<indicator-desc>
+	<segment-list>
+		<segment Name = "Self_WorkExp" Type = "real"/>
+		<segment Name = "Oppo_WorkExp" Type = "real"/>
+	</segment-list>	
+	<meta-list>
+		<meta Name = "mSelf" StartPoint = "0" Length = "1"/>
+		<meta Name = "mOpposite" StartPoint = "1" Length = "1"/>
+	</meta-list>
+</indicator-desc>

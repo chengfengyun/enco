@@ -1,0 +1,40 @@
+<indicator-desc>
+	<segment-list>
+		<segment Name = "A1" Type = "real"/>
+		<segment Name = "A2" Type = "integer"/>
+		<segment Name = "B1" Type = "real"/>
+		<segment Name = "B2" Type = "integer"/>
+		<segment Name = "A1" Type = "real"/>
+		<segment Name = "A2" Type = "integer"/>
+		<segment Name = "B1" Type = "real"/>
+		<segment Name = "B2" Type = "integer"/>
+		<segment Name = "A1" Type = "real"/>
+		<segment Name = "A2" Type = "integer"/>
+		<segment Name = "B1" Type = "real"/>
+		<segment Name = "B2" Type = "integer"/>
+		<segment Name = "A1" Type = "real"/>
+		<segment Name = "A2" Type = "integer"/>
+		<segment Name = "B1" Type = "real"/>
+		<segment Name = "B2" Type = "integer"/>
+		<segment Name = "A1" Type = "real"/>
+		<segment Name = "A2" Type = "integer"/>
+		<segment Name = "B1" Type = "real"/>
+		<segment Name = "B2" Type = "integer"/>
+		<segment Name = "A1" Type = "real"/>
+		<segment Name = "A2" Type = "integer"/>
+		<segment Name = "B1" Type = "real"/>
+		<segment Name = "B2" Type = "integer"/>
+		<segment Name = "A1" Type = "real"/>
+		<segment Name = "A2" Type = "integer"/>
+		<segment Name = "B1" Type = "real"/>
+		<segment Name = "B2" Type = "integer"/>
+		<segment Name = "A1" Type = "real"/>
+		<segment Name = "A2" Type = "integer"/>
+		<segment Name = "B1" Type = "real"/>
+		<segment Name = "B2" Type = "integer"/>
+	</segment-list>	
+	<meta-list>
+		<meta Name = "mA" StartPoint = "0" Length = "2"/>
+		<meta Name = "mb" StartPoint = "2" Length = "2"/>
+	</meta-list>
+</indicator-desc>

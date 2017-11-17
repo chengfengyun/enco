@@ -1,0 +1,3 @@
+setlocal
+
+start cmd /k

@@ -1,0 +1,771 @@
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:38:03]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:46:59]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 11:47:01]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:22:48]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:58]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:25:59]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:30:11]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:29]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:39:30]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-16 12:52:44]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:42]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-03-17 05:56:43]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 03:29:10]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:41]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 10:57:42]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:04:11]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:04]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:05:05]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:08:30]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:11]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:10:12]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-03-19 11:11:42]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:29]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:29]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:29]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:29]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:29]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:29]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:29]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:29]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:29]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:30]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:30]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:30]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:30]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:30]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:30]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:30]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:31]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:40:31]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:52:05]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:52:05]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:52:06]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:52:06]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:52:06]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:52:06]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:52:06]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:52:06]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:52:06]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:56:21]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:56:21]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:56:21]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:56:21]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:56:21]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:56:21]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:56:21]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:56:21]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:56:21]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:02]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:02]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:02]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:02]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:02]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:02]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:02]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:02]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:02]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:21]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:21]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:21]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:21]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:21]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:21]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:21]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:21]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:21]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:25]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:25]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:25]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:25]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:25]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:25]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:25]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:25]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-20 12:57:25]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-23 04:53:56]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-23 04:53:56]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-23 04:53:56]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-23 04:53:56]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-23 04:53:56]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-23 04:53:56]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-23 04:53:56]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-23 04:53:56]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-23 04:53:56]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-24 11:02:06]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-24 11:02:06]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-24 11:02:06]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-24 11:02:06]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-24 11:02:06]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-24 11:02:06]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-24 11:02:06]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-24 11:02:07]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-24 11:02:07]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 11:55:54]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 11:55:54]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 11:55:54]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 11:55:54]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 11:55:54]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 11:55:54]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 11:55:54]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 11:55:54]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 11:55:54]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 12:23:42]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 12:23:42]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 12:23:42]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 12:23:42]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 12:23:42]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 12:23:42]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 12:23:42]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 12:23:42]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 12:23:42]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 13:23:45]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 13:23:45]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 13:23:45]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 13:23:45]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 13:23:45]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 13:23:45]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 13:23:45]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 13:23:45]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-03-25 13:23:45]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 05:13:37]create a new thread to accept the connection from client.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 05:13:37]Client-Oriented service start running.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 05:13:37]Enter EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 05:13:37]Load description data from file.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 05:13:37]Sent result text through network.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 05:13:37]Tell-Indicator: Succeeded.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 05:13:37]Quit EU: Tell-Indicator.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 05:13:37]Client-Oriented service found command.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 05:13:37]Client-Oriented service finished.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:52]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:53]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:53]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:53]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:53]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:43:54]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 06:48:16]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:56]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 08:17:57]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:14:47]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:05]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:05]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:05]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:05]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:05]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:06]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:07]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:25:54]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:18]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:28:19]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:36:06]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:28]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 10:42:29]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 11:34:16]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:26]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:05:27]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-04-06 13:25:41]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-05-06 05:52:30]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:09:57]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:31:01]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:31:01]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:31:01]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:31:01]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:31:01]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:31:01]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 02:31:01]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:05]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:05]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:05]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:05]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:05]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:05]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:05]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-05-07 11:51:39]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 13:06:57]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-05-12 23:40:11]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-05-13 00:01:09]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-05-13 00:01:09]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-13 00:01:09]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-13 00:01:09]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-13 00:01:09]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-13 00:01:09]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-13 00:01:09]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:13]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:14]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:48]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:49]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:49]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:49]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:49]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:49]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:49]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:49]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:49]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-05-16 06:15:49]Network started.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread has failed to accept. Now, try to listen again.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Listen-thread closed.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Stopped listening the socket.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]WSA clean up.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]network stopped successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Network stoped.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:08]Indicator collection data are saved.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:33:09]
+Stop logging.
+<
+<
+<
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]
+Start logging.
+>
+>
+>
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]Allocated memory for indicator description class.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]Allocated memory for indicator collection class.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]Allocated memory for shadow data class.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]WSA started up.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]Create a socket to listen the specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]Bind and listen the socket on specified port.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]Raised up listening thread.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]network started successfully.
+[Level@ 0][GMT-Time@ GMT: 2017-06-03 14:34:06]Network started.

@@ -1,0 +1,7 @@
+**************** Cluster Server Feature ****************
+*    Name: XXXX-CLUSTER-SERVER                         *
+*                                                      *
+*    Description: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    *
+*    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    *
+*                                                      *
+********************************************************

@@ -1,0 +1,10 @@
+<indicator-desc>
+	<segment-list>
+		<segment Name = "Self_Type" Type = "real"/>
+		<segment Name = "Oppo_Type" Type = "real"/>
+	</segment-list>	
+	<meta-list>
+		<meta Name = "mA" StartPoint = "0" Length = "1"/>
+		<meta Name = "mb" StartPoint = "1" Length = "1"/>
+	</meta-list>
+</indicator-desc>
