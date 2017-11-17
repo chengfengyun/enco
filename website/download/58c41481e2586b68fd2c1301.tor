@@ -1,0 +1,7 @@
+<indicator>
+	<info>
+		<cluster-name>localhost</cluster-name>
+		<description>server for test</description>
+	</info>	
+	<ipv4-sock IPaddr="127.0.0.1" Port="5628"/>
+</indicator>

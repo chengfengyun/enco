@@ -1,0 +1,243 @@
+html {
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 1200px) {
+    html {
+        font-size: 20px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    html {
+        font-size: 19px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    html {
+        font-size: 18px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    html {
+        font-size: 17px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    html {
+        font-size: 16px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    html {
+        font-size: 15px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    html {
+        font-size: 14px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    html {
+        font-size: 13px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    html {
+        font-size: 12px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    html {
+        font-size: 12px;
+        transition: font-size 0.2s ease-out;
+        -webkit-transition: font-size 0.2s ease-out;
+    }
+}
+
+body {
+    font: "Lucida Grande", Helvetica, Arial, sans-serif;
+    background: rgba(240, 240, 240, 1);
+    background: url(/images/dl_bg2.jpg) no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+}
+
+a {
+    /*color: #00B7FF;*/
+    color: white;
+    text-decoration: none;
+}
+
+#small_logo {
+    padding: 0;
+    margin: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.head1 {
+    width: 100%;
+    padding-left: 1%;
+    color: white;
+    font-size: .7rem;
+}
+
+.head1 a {
+    color: white;
+    text-decoration: none;
+    padding: 17px 5px 17px 5px;
+}
+
+.head1,
+.head2 {
+    /*background: #242424;*/
+    color: black;
+}
+
+.head1 a:hover {
+    background: #393939;
+    /*padding: 17px 5px 17px 5px;*/
+}
+
+.sign_in {
+    padding: 17px 5px 17px 5px;
+    background: #393939;
+}
+
+.logo_box {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.logo_pic {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-vertical-align: middle;
+}
+
+.logo_text {
+    font-size: 2rem;
+    padding: 0;
+    line-height: 54px;
+}
+
+.search_input,
+.search_form,
+.search_indexbox,
+.search_btn {
+    margin: 0;
+}
+
+.logo_pic,
+.search_btn {
+    min-width: 40px;
+}
+
+.search_indexbox {
+    font-size: 0;
+    margin-bottom: 40px;
+}
+
+.search_indexbox a {
+    color: white;
+}
+
+.search_indexbox a:hover {
+    color: white;
+}
+
+.words {
+    font-size: 0.7rem;
+    margin-top: 20px;
+}
+
+.search_form {
+    font-size: 0;
+}
+
+.search_input,
+.search_btn {
+    font-size: 16px;
+    vertical-align: middle;
+    border: 1px solid rgba(24, 24, 0, 0.3);
+    border-radius: 0;
+}
+
+.search_input {
+    color: black;
+    width: 33%;
+    height: 36px;
+}
+
+.search_btn {
+    background: #23965D;
+    border: 0;
+    padding: 0;
+    width: 4%;
+    height: 36px;
+}
+
+.data_box {
+    margin-top: 10px;
+}
+
+.message {
+    border-bottom: 1px solid lightgrey;
+    margin: 3px;
+    color: #0000CC;
+}
+
+.message,
+.url {
+    font-size: 16px;
+}
+
+.main_logo {
+    height: 390px;
+    width: 98%;
+    background: url(/images/temp.jpg)
+}
+
+.paging {
+    margin: 40px;
+}
+
+.paging a {
+    padding: 6px;
+}
+
+.E_letter {
+    font-weight: bold;
+    padding: 2px;
+    font-size: 1.0rem;
+}

@@ -1,0 +1,7 @@
+<indicator>
+	<info>
+		<cluster-name>Instance No.1 on Fleet Server</cluster-name>
+		<description>server for test @202.118.83.209:50251</description>
+	</info>	
+	<ipv4-sock IPaddr="202.118.83.209" Port="50251"/>
+</indicator>
